@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\dima\\android\\WomensNotesPLay\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\plus.png",
+        "source": "D:\\dima\\android\\WomensNotesPLay\\app\\src\\main\\res\\mipmap-xhdpi\\plus.png"
+    },
+    {
+        "merged": "D:\\dima\\android\\WomensNotesPLay\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\share.png",
+        "source": "D:\\dima\\android\\WomensNotesPLay\\app\\src\\main\\res\\mipmap-xhdpi\\share.png"
+    },
+    {
+        "merged": "D:\\dima\\android\\WomensNotesPLay\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\launcher.png",
+        "source": "D:\\dima\\android\\WomensNotesPLay\\app\\src\\main\\res\\mipmap-xhdpi\\launcher.png"
+    },
+    {
+        "merged": "D:\\dima\\android\\WomensNotesPLay\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\open_note.png",
+        "source": "D:\\dima\\android\\WomensNotesPLay\\app\\src\\main\\res\\mipmap-xhdpi\\open_note.png"
+    }
+]

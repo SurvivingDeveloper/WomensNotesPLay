@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\dima\\android\\Notes-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\launcher.png",
+        "source": "D:\\dima\\android\\Notes-master\\app\\src\\main\\res\\mipmap-hdpi\\launcher.png"
+    },
+    {
+        "merged": "D:\\dima\\android\\Notes-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\plus.png",
+        "source": "D:\\dima\\android\\Notes-master\\app\\src\\main\\res\\mipmap-hdpi\\plus.png"
+    },
+    {
+        "merged": "D:\\dima\\android\\Notes-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\share.png",
+        "source": "D:\\dima\\android\\Notes-master\\app\\src\\main\\res\\mipmap-hdpi\\share.png"
+    },
+    {
+        "merged": "D:\\dima\\android\\Notes-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\open_note.png",
+        "source": "D:\\dima\\android\\Notes-master\\app\\src\\main\\res\\mipmap-hdpi\\open_note.png"
+    },
+    {
+        "merged": "D:\\dima\\android\\WomensNotesPLay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\open_note.png",
+        "source": "D:\\dima\\android\\WomensNotesPLay\\app\\src\\main\\res\\mipmap-hdpi\\open_note.png"
+    },
+    {
+        "merged": "D:\\dima\\android\\WomensNotesPLay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\share.png",
+        "source": "D:\\dima\\android\\WomensNotesPLay\\app\\src\\main\\res\\mipmap-hdpi\\share.png"
+    },
+    {
+        "merged": "D:\\dima\\android\\WomensNotesPLay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\launcher.png",
+        "source": "D:\\dima\\android\\WomensNotesPLay\\app\\src\\main\\res\\mipmap-hdpi\\launcher.png"
+    },
+    {
+        "merged": "D:\\dima\\android\\WomensNotesPLay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\plus.png",
+        "source": "D:\\dima\\android\\WomensNotesPLay\\app\\src\\main\\res\\mipmap-hdpi\\plus.png"
+    }
+]

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/open_note"
+        android:icon="@mipmap/open_note"
+        android:title="@string/share"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/delete_note"
+        android:title="@string/delete_note"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/share"
+        android:icon="@mipmap/share"
+        android:title="@string/share"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/settings"
+        android:title="@string/settings"
+        app:showAsAction="never"/>
+</menu>

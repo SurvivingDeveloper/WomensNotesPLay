@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ork_9_000\.gradle\caches\modules-2\files-2.1\commons-cli\commons-cli\1.2\2bf96b7aa8b611c177d329452af1dc933e14501c\commons-cli-1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="D:\dima\android\Notes-master\app\build\intermediates\pre-dexed\debug\commons-cli-1.2_045abd698b33b9fafe7bffb34db6694501a35cde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\dima\android\Notes-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\dima\android\Notes-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_4151fa5501c8078b72a780c339fcbf2157bdc220.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\dima\android\Notes-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\dima\android\Notes-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_be730fe2487961ae7541b246bb632041f2789ca0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ork_9_000\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="D:\dima\android\Notes-master\app\build\intermediates\pre-dexed\debug\jsr305-2.0.1_e8aad359f0815195731e39660563b423ffaf98a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ork_9_000\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.0.1\345b89f45d02d8b09400b472fab7b7e38f4ede1f\butterknife-annotations-8.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="345b89f45d02d8b09400b472fab7b7e38f4ede1f">
+        <dex dex="D:\dima\android\Notes-master\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.0.1_a9bb3f1852730ece7212594acf8b8877c407ffc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ork_9_000\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-runtime\1.0.3\10f40d016700cf4287e49fa1d51c2a8507e9b946\kotlin-runtime-1.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="10f40d016700cf4287e49fa1d51c2a8507e9b946">
+        <dex dex="D:\dima\android\Notes-master\app\build\intermediates\pre-dexed\debug\kotlin-runtime-1.0.3_14f5c08bff225196b167769b916b81c0209ff9f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\dima\android\Notes-master\app\build\intermediates\exploded-aar\com.github.yukuku\ambilwarna\2.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7ed87c7f833e46dacace668e63cb8c4b67cb3172">
+        <dex dex="D:\dima\android\Notes-master\app\build\intermediates\pre-dexed\debug\com.github.yukuku-ambilwarna-2.0.1_d9cd85afe02886585b1a3d5c457ad72e5573321d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\dima\android\Notes-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="D:\dima\android\Notes-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_844224cddfb5c543320fb30aca0fe90afe07c87f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\dima\android\Notes-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d3b1e9fc55d485d9469180313061e17868056e62">
+        <dex dex="D:\dima\android\Notes-master\app\build\intermediates\pre-dexed\debug\instant-run_1fc3a39ef4380375ffb4714c05b5227a97994669.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\dima\android\Notes-master\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="D:\dima\android\Notes-master\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_571e50e30910f78ff74ab471327d21d0838228df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\dima\android\Notes-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\dima\android\Notes-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_736a13bd9b9d7feb4d64da1c440d217a0e829c62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ork_9_000\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.0.3\20738122b53399036c321eeb84687367757d622a\kotlin-stdlib-1.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="20738122b53399036c321eeb84687367757d622a">
+        <dex dex="D:\dima\android\Notes-master\app\build\intermediates\pre-dexed\debug\kotlin-stdlib-1.0.3_bd0c7bcf1a479eeac0ebd7ac2682b3730f5648bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\dima\android\Notes-master\app\build\intermediates\exploded-aar\com.facebook.stetho\stetho\1.4.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="26b6f0185cbba8917ba9d9d0bd170f95311622ab">
+        <dex dex="D:\dima\android\Notes-master\app\build\intermediates\pre-dexed\debug\com.facebook.stetho-stetho-1.4.1_888fa5e1cd83ef3fbc9c81e98a365d1bd9e99942.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\dima\android\Notes-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a05380b13ec0121ef7be9ac01240307b419868ac">
+        <dex dex="D:\dima\android\Notes-master\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_adf2c8299b60889b331a3fbd54f7b2820081ef2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\droid\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\dima\android\Notes-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_72c26a17e14bd5240f2d988dea04d16867e21661.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\dima\android\Notes-master\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="74ca46e7da11e3d065eb64cdbe6568a7ed74c211">
+        <dex dex="D:\dima\android\Notes-master\app\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.0.1_968d4a2a0ac9f2067bc684041eb4af64b2159920.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\dima\android\Notes-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\dima\android\Notes-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_07e2b1644be86f3db076ff400f36a84435dc6e61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\dima\android\Notes-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\dima\android\Notes-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_cb1cf1664cacf62a2c7a87bf1d3530d6d51d5422.jar" />
+    </item>
+
+</items>

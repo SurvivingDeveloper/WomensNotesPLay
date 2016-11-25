@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\dima\\android\\WomensNotesPLay\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ambilwarna_target.png",
+        "source": "D:\\dima\\android\\WomensNotesPLay\\app\\build\\intermediates\\exploded-aar\\com.github.yukuku\\ambilwarna\\2.0.1\\res\\drawable-hdpi\\ambilwarna_target.png"
+    },
+    {
+        "merged": "D:\\dima\\android\\WomensNotesPLay\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ambilwarna_arrow_down.png",
+        "source": "D:\\dima\\android\\WomensNotesPLay\\app\\build\\intermediates\\exploded-aar\\com.github.yukuku\\ambilwarna\\2.0.1\\res\\drawable-hdpi\\ambilwarna_arrow_down.png"
+    },
+    {
+        "merged": "D:\\dima\\android\\WomensNotesPLay\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ambilwarna_cursor.png",
+        "source": "D:\\dima\\android\\WomensNotesPLay\\app\\build\\intermediates\\exploded-aar\\com.github.yukuku\\ambilwarna\\2.0.1\\res\\drawable-hdpi\\ambilwarna_cursor.png"
+    },
+    {
+        "merged": "D:\\dima\\android\\WomensNotesPLay\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ambilwarna_arrow_right.png",
+        "source": "D:\\dima\\android\\WomensNotesPLay\\app\\build\\intermediates\\exploded-aar\\com.github.yukuku\\ambilwarna\\2.0.1\\res\\drawable-hdpi\\ambilwarna_arrow_right.png"
+    }
+]

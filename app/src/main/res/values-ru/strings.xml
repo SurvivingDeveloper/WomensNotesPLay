@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Womens note</string>
+    <string name="app_launcher_name">Womens note</string>
+    <string name="save">Сохранить</string>
+    <string name="share">Поделиться</string>
+    <string name="share_via">Отправить по</string>
+    <string name="cannot_share_empty_text">Не могу разделить пустой текст</string>
+    <string name="note_saved">Примечание сохранены</string>
+    <string name="simple_note">заметка</string>
+    <string name="new_note">Добавить новую заметку</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Отмена</string>
+    <string name="no_title">Пожалуйста, назовите вашу записку</string>
+    <string name="title_taken">записка с этим название уже существует</string>
+    <string name="open_note">Открыть записку</string>
+    <string name="delete_note">Удалить записку</string>
+    <string name="delete_note_prompt_title">Удалить заметку</string>
+    <string name="delete_note_prompt_message">Вы уверены, что хотите удалить примечание \"%1$s\"?</string>
+    <string name="pick_a_note">Выберите заметку</string>
+    <string name="current_note">Текущее примечание:</string>
+
+    <!-- Settings -->
+    <string name="settings">настройки</string>
+    <string name="dark_theme">Темная тема</string>
+    <string name="note_font_size">Размер шрифта</string>
+    <string name="small">Маленький</string>
+    <string name="normal">Нормальный</string>
+    <string name="large">Большой</string>
+    <string name="extra_large">Очень большой</string>
+
+</resources>
